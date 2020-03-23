@@ -1,0 +1,47 @@
+
+*
+{
+    position: relative
+}
+
+
+.short-intro {
+    position: relative;
+    font-size: 20px;
+    color: grey;
+    background-color: black;
+  }
+  .Symptoms
+  {position: relative;
+      font-size: 20px
+      color: re
+
+  }
+ 
+  .cv-img{
+      position: relative;
+    border-radius: 600px;
+    width: 600px;
+    height:700px
+
+
+  }
+  .PRECAUTION
+  {position: fixed;
+      font-size:30px ;
+      color: red;
+      background-color: chocolate;
+  }
+  .Shubham
+  {
+      background-color: darkgreen;
+  }
+.jalan
+{
+    background-image: url(cv.jpg);
+}
+*
+{
+    background-color: darkseagreen;
+    position: absolute;
+}
